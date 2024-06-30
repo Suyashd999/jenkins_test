@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/suyash/jenkins_test/jenkins_test/build",
+  "command": "/usr/bin/c++   -std=gnu++11 -o CMakeFiles/use_after_move.dir/use_after_move.cpp.o -c /home/suyash/jenkins_test/jenkins_test/use_after_move.cpp",
+  "file": "/home/suyash/jenkins_test/jenkins_test/use_after_move.cpp"
+},
+{
+  "directory": "/home/suyash/jenkins_test/jenkins_test/build",
+  "command": "/usr/bin/c++   -std=gnu++11 -o CMakeFiles/use_after_move_2.dir/use_after_move_2.cpp.o -c /home/suyash/jenkins_test/jenkins_test/use_after_move_2.cpp",
+  "file": "/home/suyash/jenkins_test/jenkins_test/use_after_move_2.cpp"
+}
+]
