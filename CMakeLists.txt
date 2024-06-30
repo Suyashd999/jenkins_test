@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 # Add executables
 add_executable(use_after_move use_after_move.cpp)
-add_executable(use_after_move_example use_after_move_example.cpp)
+add_executable(use_after_move_2 use_after_move_2.cpp)
 
 # Enable compile commands output
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
