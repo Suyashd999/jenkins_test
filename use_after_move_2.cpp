@@ -55,4 +55,5 @@ void useAfterMoveExample() {
 int main() {
     useAfterMoveExample();
     return 0;
+    
 }
